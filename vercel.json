@@ -2,9 +2,6 @@
   "builds": [
     {"src": "bulid", "use": "@vercel/node"}
   ],
-  "engines":{
-    "node": "18.x"
-  },
   "env": {
     "NODE_OPTIONS": "--openssl-legacy-provider"
   }
