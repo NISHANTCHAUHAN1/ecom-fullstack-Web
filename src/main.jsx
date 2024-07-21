@@ -17,3 +17,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
    </Provider>
   </React.StrictMode>,
 )
+
+
+// npm cache clean --force.
+// npm i -g firebase
