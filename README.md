@@ -23,7 +23,7 @@ This repository contains a full stack Ecommerce web application. The backend is 
 - Edit or delete existing products.
 - Manage order details and track the order status.
 
-### User Featur
+### User Features
 
 - Browse product catalog.
 - Add products to cart and place orders.
