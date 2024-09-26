@@ -1,8 +1,31 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Full Stack Ecommerce Web Application
 
-Currently, two official plugins are available:
+This repository contains a full stack Ecommerce web application. The backend is developed using Firebase for authentication, product management, and order handling, while the frontend is built using React, styled with Tailwind CSS, and managed state using Redux Toolkit. The application provides a seamless interface for both customers and administrators, allowing admins to add, update, and delete products as well as manage order details.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+### Backend
+
+- Firebase Authentication: Secure user authentication and authorization.
+- Firebase Firestore: Database to store and retrieve product details and order information.
+- Firebase Functions: For handling backend logic, triggers, and processing business rules.
+
+ ### Frontend
+
+- React: Single-page application framework for a dynamic and interactive user experience.
+- Tailwind CSS: Utility-first CSS framework for rapid UI development.
+- Redux Toolkit: State management for global state and smooth data flow across the application.
+
+### Admin Features
+
+- Add new products.
+- Edit or delete existing products.
+- Manage order details and track the order status.
+
+### User Featur
+
+- Browse product catalog.
+- Add products to cart and place orders.
+- View order history and track status.
+
